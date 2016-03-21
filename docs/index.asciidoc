@@ -1,0 +1,5 @@
+= Davidbeat Docs
+
+Welcome to the Davidbeat documentation.
+
+
